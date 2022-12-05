@@ -1,0 +1,3 @@
+Block request outside the browser
+Set a value(isloggedin and check that value before you make request)
+Check query and fix no vote issue
